@@ -8,7 +8,9 @@
     "jquery": "^1.11.3",
     "lodash": "^4.17.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
